@@ -1,0 +1,13 @@
+#######################################
+# Datatypes / class names (KEYWORD1)
+#######################################
+pxl	KEYWORD1
+pxlp	KEYWORD1
+
+#######################################
+# Methods (KEYWORD2)
+#######################################
+pin	KEYWORD2
+setColor	KEYWORD2
+write	KEYWORD2
+rgb	KEYWORD2
